@@ -37,3 +37,13 @@ Displays a list of:
 
 [todo]: http://todotxt.com
 [CHANGELOG]: CHANGELOG.md
+
+## CONTRIBUTING
+
+The [contributing guide](CODE_OF_CONDUCT.md) is a good place to start. If you have questions, feel free to ask.
+
+## LICENSE
+
+GPLv3 © [Gina Trapani][ginatrapani]
+
+[ginatrapani]: https://github.com/ginatrapani
